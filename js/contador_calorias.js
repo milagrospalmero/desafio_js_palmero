@@ -1,3 +1,4 @@
+
 let maximo_calorias = parseInt(prompt("Ingrese la Cantidad Máxima de Calorías"));
 let suma_calorias = 0;
 
@@ -18,4 +19,3 @@ for (i=0; i<6; i++) {
         breack;  
         }
     }    
-        alert("Consumiste: " + suma_calorias + " calorías!"); 
